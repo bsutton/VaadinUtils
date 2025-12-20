@@ -8,7 +8,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<vaadin.version>7.7.9</vaadin.version>
+		<vaadin.version>7.7.48</vaadin.version>
 		<vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
 		<jasperreports.version>6.4.1</jasperreports.version>
 	</properties>
@@ -245,7 +245,7 @@
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-email</artifactId>
-			<version>1.3.3</version>
+			<version>1.5</version>
 		</dependency>
 
 		<dependency>
@@ -291,7 +291,7 @@
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-core</artifactId>
-			<version>2.8.2</version>
+			<version>2.25.3</version>
 		</dependency>
 
 		<dependency>
@@ -331,7 +331,7 @@
 		<dependency>
 			<groupId>com.google.code.gson</groupId>
 			<artifactId>gson</artifactId>
-			<version>2.2.4</version>
+			<version>2.8.9</version>
 			<scope>compile</scope>
 		</dependency>
 
